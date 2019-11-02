@@ -1,0 +1,23 @@
+.sheet {
+  width: 80%;
+  margin: auto;
+}
+
+.balanceSheetForm {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+}
+
+.formOption {
+  margin: 10px;
+}
+
+.expenseOption {
+  background-color: red;
+}
+.incomeOption {
+  background-color: green;
+}
